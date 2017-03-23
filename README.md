@@ -5,3 +5,6 @@
 ```bash
 ./mnvw clean package
 ```
+
+[Slides from the talk](docs/slides.pdf)
+
